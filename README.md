@@ -1,4 +1,4 @@
-# Discord 1337 Bot 🤖
+# Discord MSN Messenger Bot 🤖
 
 A simple Discord bot that plays the MSN Messenger notification sound in a voice channel whenever anyone sends a message
 
