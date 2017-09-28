@@ -1,6 +1,8 @@
-# Discord MSN Messenger Bot 🤖
+# Discord MSN Messenger Bot 🤖🔊
 
-A simple Discord bot that plays the MSN Messenger notification sound in a voice channel whenever anyone sends a message
+A simple Discord bot that plays the MSN Messenger notification sound in a voice channel whenever anyone sends a message.
+
+For a simpler example see: [discord-bot-example](https://glitch.com/~discord-bot-example)
 
 ## Prerequisites
 

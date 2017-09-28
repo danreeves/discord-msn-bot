@@ -6,7 +6,7 @@ const bot = new Eris(process.env.DISCORD_BOT_TOKEN);
 bot.on('ready', () => {
     console.log('Ready!');
 
-    const server = last(bot.guilds.filter(g => g.name === 'MSN Messenger'));
+    const server = last(bot.guilds.filter(g => g.name === 'MSN Messenger')); // This is the name of my Discord server, you should change this
 
     const voiceChannel = first(
         server.channels.filter(c => {
