@@ -1,5 +1,5 @@
 const Eris = require('eris');
-const { first, last } = require('lodash');
+const { last } = require('lodash');
 
 const bot = new Eris(process.env.DISCORD_BOT_TOKEN);
 
